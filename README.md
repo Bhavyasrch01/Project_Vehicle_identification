@@ -27,9 +27,13 @@ Optimized for compatibility across all devices using Bootstrap.
 🛠 Technologies Used
 
 Backend: Django Framework
+
 OCR Tool: Pytesseract
+
 Frontend: HTML, CSS, JavaScript, Bootstrap
+
 Database: SQLite (db.sqlite3)
+
 
 📂 Project Structure
 
