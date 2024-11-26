@@ -54,24 +54,22 @@ vehiclerecognition/
 
 ⚙️ Installation and Setup
 1. Clone the Repository
-bash
-Copy code
-git clone https://github.com/your-username/vehicle-number-plate-recognition.git
-cd vehicle-number-plate-recognition
+    bash
+    Copy code
+    git clone https://github.com/your-username/vehicle-number-plate-recognition.git
+    cd vehicle-number-plate-recognition
 
 2. Set Up a Virtual Environment
-bash
-Copy code
-python -m venv venv
-# Activate the environment:
-# On macOS/Linux:
-source venv/bin/activate
-# On Windows:
-.\venv\Scripts\activate
+    bash
+    Copy code
+    python -m venv venv
+
+Activate the environment:      .\venv\Scripts\activate
 
 
-3. Install
+
 Vehicle Number Plate Recognition
+
 Overview
 A powerful Django-based web application designed to identify vehicle number plates from both static images and dynamic videos. This tool utilizes Optical Character Recognition (OCR) with Pytesseract to extract plate details and map them to their respective states. The interface, styled with Bootstrap, ensures a seamless and responsive user experience.
 
@@ -124,13 +122,14 @@ Videos: .mp4, .avi
 Test the system with sample files for accurate results.
 
 Acknowledgements
+
 Special thanks to the tools and frameworks that make this project possible:
 
-Pytesseract for OCR capabilities.
+    Pytesseract for OCR capabilities.
 
-Django for backend development.
+    Django for backend development.
 
-Bootstrap for responsive design.
+    Bootstrap for responsive design.
 
 
 Contact Information
