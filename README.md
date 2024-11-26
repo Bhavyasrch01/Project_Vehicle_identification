@@ -54,17 +54,17 @@ vehiclerecognition/
 
 ⚙️ Installation and Setup
 1. Clone the Repository
-    bash
-    Copy code
-    git clone https://github.com/your-username/vehicle-number-plate-recognition.git
-    cd vehicle-number-plate-recognition
+       bash
+       Copy code
+       git clone https://github.com/your-username/vehicle-number-plate-recognition.git
+       cd vehicle-number-plate-recognition
 
-2. Set Up a Virtual Environment
-    bash
-    Copy code
-    python -m venv venv
+3. Set Up a Virtual Environment
+        bash
+        Copy code
+        python -m venv venv
 
-Activate the environment:      .\venv\Scripts\activate
+Activate the environment:                        .\venv\Scripts\activate
 
 
 
